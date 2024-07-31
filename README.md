@@ -17,7 +17,7 @@
 
 **Objetivo:**<br/>
 
-> Neste notebook é exposta a série temporal de preços do IBOVESPA, durante 34 anos, compreendendo o período de 01/01/1990 à 15/07/2024.<br/>
+> Neste notebook é exposta a série temporal de preços do IBOVESPA, durante 34 anos, compreendendo o período de 01/01/1990 à 15/07/2024. Posteriormente tratatada, para contemplar apenas de 01/01/2000 à 15/07/2024. <br/>
 Com o intuito de testar modelos estatísticos que prevejam com acuracidade qual o preço de fechamento do índice da bolsa de valores brasileira (B3), o IBOVESPA.
 
 <br/>
