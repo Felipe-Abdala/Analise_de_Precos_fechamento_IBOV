@@ -40,14 +40,11 @@ https://github.com/Felipe-Abdala/Tech_Challenge_Fase2
 
 
 
-> Todos os modelos apresentaram resultados parecidos, seja de acuracidade, seja de seus erros, com exceção do Prophet, que apresentou níveis de acuracidade menores que dos demais e também apresentou métricas de erro também maiores que dos demais modelos.
-</br>
+> Todos os modelos apresentaram resultados parecidos, seja de acuracidade, seja de seus erros, com exceção do Prophet, que apresentou níveis de acuracidade menores que dos demais e também apresentou métricas de erro também maiores que dos demais modelos.</br>
 
-> Com isso, o MAE e do MAPE, conforme bibliografia suporte corrobora (https://medium.com/data-hackers/prevendo-n%C3%BAmeros-entendendo-m%C3%A9tricas-de-regress%C3%A3o-35545e011e70), são técnicas que não são tão afetadas por valores discrepantes e possuem melhor interpretabilidade de seus resultados para fins de entendimento da divergência entre o previsto e o observado. E a partir dessas duas técnicas (MAE e o MAPE) observou-se 4 modelos que melhor performaram: ***XGBoost, Sarimax, AutoArima e Naive.***
-</br>
+> Com isso, o MAE e do MAPE, conforme bibliografia suporte corrobora (https://medium.com/data-hackers/prevendo-n%C3%BAmeros-entendendo-m%C3%A9tricas-de-regress%C3%A3o-35545e011e70), são técnicas que não são tão afetadas por valores discrepantes e possuem melhor interpretabilidade de seus resultados para fins de entendimento da divergência entre o previsto e o observado. E a partir dessas duas técnicas (MAE e o MAPE) observou-se 4 modelos que melhor performaram: ***XGBoost, Sarimax, AutoArima e Naive.***</br>
 
-> Foram utilizados dados da B3, desde 01/01/2000 até 15/07/2024, após filtrarmos dados apenas a partir do ano 2000, já que é onde há maiores detalhamento dos anos com os dados de cotação da B3, de maneira mais robusta.
-</br>
+> Foram utilizados dados da B3, desde 01/01/2000 até 15/07/2024, após filtrarmos dados apenas a partir do ano 2000, já que é onde há maiores detalhamento dos anos com os dados de cotação da B3, de maneira mais robusta. </br>
 
 > Em resumo, a nossa melhor taxa de acerto é menor média de erro quadrado, foi na utilização do modelo **XGBoost** entendendo melhor o modelo. A seguir, seguem os pontos do porquê de esse modelo se mostrar aderem ao propósito das predições almejadas para a tomada de decisão de escolha final:</br>
 >- O modelo apresenta uma facilidade para lidar com dados faltantes na base de dados, não enviesando o modelo final.
