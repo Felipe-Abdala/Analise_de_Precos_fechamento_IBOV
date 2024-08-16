@@ -1,7 +1,7 @@
 **Análise de Preços de fechamento do Ibovespa**
-**Pós-Tech Data Analytics**<br/>
-**Turma:** 5DTAT<br/>
-**Grupo:** 65<br/>
+>**Pós-Tech Data Analytics**<br/>
+>**Turma:** 5DTAT<br/>
+>**Grupo:** 65<br/>
 
 <br/>
 
@@ -31,11 +31,11 @@ https://github.com/Felipe-Abdala/Tech_Challenge_Fase2
 **Metodologia:**<br/>
 
 > Foram utilizados modelos de predição a fim de detectar qual melhor se adequaria para fins de previsão do valor de fechamento da bolsa brasileira (B3), com isso, foram utiilzadas as técnicas de modelagem de:
-* Modelo Status Forecast (baseline, sazonalidade e base móvel);
-* ARIMA;
-* XGBoost;
-* Prophet;
-* SARIMAX.
+> * Modelo Status Forecast (baseline, sazonalidade e base móvel);
+> * ARIMA;
+> * XGBoost;
+> * Prophet;
+> * SARIMAX.
 
 
 
@@ -55,5 +55,5 @@ https://github.com/Felipe-Abdala/Tech_Challenge_Fase2
 
 **Conclusão:**</br>
 >O modelo (XGBoost) se mostrou com os melhores indicadores, pelo fato de trabalhar melhor com séries temporais, e consequentemente a base de dados fornecida e trabalhada ser uma série temporal. E com isso, a base de teste teve seus dados previstos mais aderentes com a base de treino, quando comparamos no gráfico do modelo do XGBoost (vide navegação desse script no índice "***7.2.2.3. Avaliação do Modelo XGBoost***".
-</br></br>
+</br>
 
