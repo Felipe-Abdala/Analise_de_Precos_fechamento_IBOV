@@ -50,10 +50,10 @@ https://github.com/Felipe-Abdala/Tech_Challenge_Fase2
 </br>
 
 > Em resumo, a nossa melhor taxa de acerto é menor média de erro quadrado, foi na utilização do modelo **XGBoost** entendendo melhor o modelo. A seguir, seguem os pontos do porquê de esse modelo se mostrar aderem ao propósito das predições almejadas para a tomada de decisão de escolha final:</br>
-- O modelo apresenta uma facilidade para lidar com dados faltantes na base de dados, não enviesando o modelo final.
-- ⁠O modelo trabalha com um conceito de árvore de decisão, o que permite que esses outliers que podem faltar não influenciem no lado tomado pelo modelo.
+>- O modelo apresenta uma facilidade para lidar com dados faltantes na base de dados, não enviesando o modelo final.
+>- ⁠O modelo trabalha com um conceito de árvore de decisão, o que permite que esses outliers que podem faltar não influenciem no lado tomado pelo modelo.
 
->**Conclusão:**
-</br>O modelo (XGBoost) se mostrou com os melhores indicadores, pelo fato de trabalhar melhor com séries temporais, e consequentemente a base de dados fornecida e trabalhada ser uma série temporal. E com isso, a base de teste teve seus dados previstos mais aderentes com a base de treino, quando comparamos no gráfico do modelo do XGBoost (vide navegação desse script no índice "***7.2.2.3. Avaliação do Modelo XGBoost***".
+**Conclusão:**</br>
+>O modelo (XGBoost) se mostrou com os melhores indicadores, pelo fato de trabalhar melhor com séries temporais, e consequentemente a base de dados fornecida e trabalhada ser uma série temporal. E com isso, a base de teste teve seus dados previstos mais aderentes com a base de treino, quando comparamos no gráfico do modelo do XGBoost (vide navegação desse script no índice "***7.2.2.3. Avaliação do Modelo XGBoost***".
 </br></br>
 
