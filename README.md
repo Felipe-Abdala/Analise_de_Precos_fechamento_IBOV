@@ -1,5 +1,6 @@
 **Análise de Preços de fechamento do Ibovespa**
 >**Pós-Tech Data Analytics**<br/>
+>**Tech Challenge 2**<br/>
 >**Turma:** 5DTAT<br/>
 >**Grupo:** 65<br/>
 
